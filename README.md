@@ -1,9 +1,9 @@
 ### Oi! eu sou Vinicius Oliveira 👋
 - 🔭 Atualmente estou em busca da primeira oportunidade:
-  - Estágio em Front-end | Back-end | DBA | Desenvolvedor de sistemas
+  - Estágio em Front-end | Back-end | Full-Stack |DBA | Desenvolvedor de sistemas
   - Programador front-end jr | Back-end jr
 - 🌱 Estou no terceiro módulo do curso técnico de desenvolvedor de sistemas
-- 💬 Estudando React e Node.js
+- 💬 Atualmente estou estudando React e Node.js
 - 😄 Pronouns: ele/dele
 
 <div align="center">
