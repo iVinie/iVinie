@@ -4,7 +4,6 @@
   - Programador front-end jr | Back-end jr | Analista de dados jr
 - 🌱 Estou no terceiro módulo do curso técnico de análise e desenvolvimento de sistemas e no primeiro período Tecnologo de ciência de dados
 - 💬 Atualmente estou estudando React e Node.js
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/iVinie">
