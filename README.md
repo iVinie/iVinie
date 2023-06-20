@@ -2,7 +2,7 @@
 - 🔭 Atualmente estou em busca da primeira oportunidade:
   - Estágio em Front-end | Back-end | Full-Stack | DBA | Desenvolvedor de sistemas | Analista de dados
   - Programador front-end jr | Back-end jr | Analista de dados jr
-- 🌱 Estou no terceiro módulo do curso técnico de análise e desenvolvimento de sistemas e no primeiro período Tecnologo de ciência de dados
+- 🌱 Estou segundo período do curso Tecnologo de ciência de dados
 - 💬 Atualmente estou estudando React e Node.js
 
 <div align="center">
