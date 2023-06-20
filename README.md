@@ -3,7 +3,7 @@
   - Estágio em Front-end | Back-end | Full-Stack | DBA | Desenvolvedor de sistemas | Analista de dados
   - Programador front-end jr | Back-end jr | Analista de dados jr
 - 🌱 Estou segundo período do curso Tecnologo de ciência de dados
-- 💬 Atualmente estou estudando React e Node.js
+- 💬 Atualmente estou estudando A linguagem R, Power Bi e Python
 
 <div align="center">
   <a href="https://github.com/iVinie">
