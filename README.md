@@ -1,9 +1,9 @@
 ### Oi! eu sou Vinicius Oliveira 👋
 - 🔭 Atualmente estou em busca da primeira oportunidade:
-  - Estágio em Front-end | Back-end | Full-Stack | DBA | Desenvolvedor de sistemas | Analista de dados
-  - Programador front-end jr | Back-end jr | Analista de dados jr
+  - Estágio em Analise de dados | Back-end | DBA 
+  - Programador Back-end jr | Analista de dados jr
 - 🌱 Estou segundo período do curso Tecnologo de ciência de dados
-- 💬 Atualmente estou estudando A linguagem R, Power Bi e Python
+- 💬 Atualmente estou estudando Power Bi e Python
 
 <div align="center">
   <a href="https://github.com/iVinie">
