@@ -3,7 +3,7 @@
   - Estágio em Analise de dados | Back-end | DBA 
   - Programador Back-end jr | Analista de dados jr
 - Estou segundo período do curso Tecnologo de ciência de dados
-- Participando do FAP (Formação Acelerada em Programação) back-end da Softex Recife
+- Participando do FAP (Formação Acelerada em Programação), turma back-end da Softex Recife
 - Atualmente estou estudando Power Bi e Python
 
 <div align="center">
