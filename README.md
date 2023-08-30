@@ -1,4 +1,4 @@
-### Oi! eu sou Vinicius Oliveira 👋
+### Oi! eu sou Vinicius Oliveira
 - Atualmente estou em busca da primeira oportunidade:
   - Estágio em Analise de dados | Back-end | DBA 
   - Programador Back-end jr | Analista de dados jr
