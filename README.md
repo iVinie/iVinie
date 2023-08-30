@@ -19,6 +19,7 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Vini-CSS" height="32" width="28" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img align="center" height="30" width="40" alt="R" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/720/1*VON9gHTrzeHZbHfXsqfzEA.gif">
