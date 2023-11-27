@@ -2,7 +2,8 @@
 - Atualmente estou em busca da primeira oportunidade:
   - Estágio em Analise de dados | Back-end | DBA 
   - Programador Back-end jr | Analista de dados jr
-- Estou segundo período do curso Tecnologo de ciência de dados
+- Estou terceiro período do curso Tecnologo de ciência de dados
+- Particioando di VEM SER TECH | Dados - da ADA Tech em parceria com iFood
 - Participando do FAP (Formação Acelerada em Programação), turma back-end da Softex Recife
 - Atualmente estou estudando Power Bi e Python
 
