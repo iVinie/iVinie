@@ -1,6 +1,6 @@
 ### Oi! eu sou Vinicius Oliveira
 - Atualmente estou em busca da primeira oportunidade:
-  - Estágio em Analise de dados | Back-end | DBA 
+  - Estágio em Analise de dados | Back-end | DBA | Cientista de Dados 
   - Programador Back-end jr | Analista de dados jr
 - Estou terceiro período do curso Tecnologo de ciência de dados
 - Particioando di VEM SER TECH | Dados - da ADA Tech em parceria com iFood
