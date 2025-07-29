@@ -1,7 +1,7 @@
 ### Oi! eu sou Vinicius Oliveira
 - Atualmente estou em busca da primeira oportunidade:
   - Cientista de dados jr | Analista de dados jr | Analista de BI jr
-- Tecnologo em Ciência de Dados
+- Tecnólogo em Ciência de Dados
 - Atualmente estou me aprofundando em Python e R
 
 <div align="center">
