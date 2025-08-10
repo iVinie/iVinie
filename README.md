@@ -1,8 +1,8 @@
-### Oi! eu sou Vinicius Oliveira
+### Oi! eu sou Vinicius Oliveira, sou corretor de imóveis e estou em transição de carreira
 - Atualmente estou em busca da primeira oportunidade:
-  - Cientista de dados jr | Analista de dados jr | Analista de BI jr
+  - Desenvolvedor RPA jr | Desenvolvedor Python jr
 - Tecnólogo em Ciência de Dados
-- Atualmente estou me aprofundando em Python e R
+- Atualmente estou me aprofundando em Python e automações 
 
 <div align="center">
   <a href="https://github.com/iVinie">
