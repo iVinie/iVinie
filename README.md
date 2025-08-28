@@ -1,9 +1,15 @@
 ### Oi! eu sou Vinicius Oliveira, sou corretor de imóveis e estou em transição de carreira
-- Atualmente estou em busca da primeira oportunidade:
-  - Desenvolvedor RPA jr | Desenvolvedor Python jr
-- Tecnólogo em Ciência de Dados
-- Atualmente estou me aprofundando em Python e automações 
+ Sou um recém-formado em Ciência de Dados, apaixonado por transformar dados em informações estratégicas que impulsionam resultados de negócio. Com experiência anterior no setor comercial imobiliário, desenvolvi uma visão orientada ao cliente e habilidade para identificar oportunidades de negócio
+competências que agora aplico em projetos de análise de dados e inteligência de mercado.
 
+- Atualmente, estou expandindo meus conhecimentos práticos por meio do IBM Data Science Professional Certificate e aplicando as seguintes ferramentas e técnicas:
+  - 📊 Análise e visualização de dados: Power BI, Excel, Matplotlib, Seaborn
+  - 🐍 Programação: Python (Pandas, NumPy, Scikit-learn)
+  - 💾 Bancos de dados: SQL (consultas, junções, agregações)
+  - 🤖 Machine Learning: Modelos de regressão, classificação e clusterização
+
+Busco minha primeira oportunidade como Analista de Dados para contribuir com equipes dinâmicas e orientadas a resultados.  
+Estou aberto a conexões e oportunidades para aplicar minha paixão por dados e minha dedicação ao aprendizado contínuo.
 <div align="center">
   <a href="https://github.com/iVinie">
       <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iVinie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
